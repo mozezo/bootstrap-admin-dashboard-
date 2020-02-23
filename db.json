@@ -1,0 +1,44 @@
+{
+   "cards" : [
+       {
+          "id": 1,
+          "title": "Used Space",
+          "number":"49/50",
+          "unit": "GB",
+          "icon": "copy",
+          "headerColor": "#fb8c00",
+          "footerTitle": "Get More Spaces...",
+          "footerIcon": "warning" 
+       },
+       {
+        "id": 2,
+        "title": "Revenue",
+        "number":"34,245",
+        "unit": "$",
+        "icon": "bank",
+        "headerColor": "#66bb6a",
+        "footerTitle": "Last 24 Hours",
+        "footerIcon": "calendar" 
+     },
+     {
+        "id": 3,
+        "title": "Fixed Issues",
+        "number":"75",
+        "unit": " ",
+        "icon": "info-circle",
+        "headerColor": "#e53935",
+        "footerTitle": "Tracked from Github",
+        "footerIcon": "tag" 
+     },
+     {
+        "id": 4,
+        "title": "Followers",
+        "number":"245",
+        "unit": "+",
+        "icon": "twitter",
+        "headerColor": "#00acc1",
+        "footerTitle": "Just Updated",
+        "footerIcon": "reload" 
+     }
+   ]
+}
